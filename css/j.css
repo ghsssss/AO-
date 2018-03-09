@@ -1,0 +1,114 @@
+#j {
+    background: url("../img/j-0.png") no-repeat center top;
+    background-size: 10rem auto;
+    text-align: center;
+}
+
+#j1 {
+    width: 8rem;
+    margin-top: 1.3rem;
+    left: 1rem;
+    z-index: 1;
+    position: absolute;
+    display: none;
+}
+
+#j2 {
+    width: 6.67rem;
+    top: 2.6rem;
+    left: 1.6rem;
+    position: absolute;
+    display: none;
+}
+
+#j3 {
+    width: 8rem;
+    position: absolute;
+    top: 0.17rem;
+    left: 0.98rem;
+    z-index: 0;
+    display: none;
+}
+
+#j4 {
+    width: 1.3rem;
+    position: absolute;
+    left: 0.6rem;
+    top: 4.7em;
+}
+#j04 {
+    width: 1.3rem;
+    position: absolute;
+    left: 0.6rem;
+    top: 5.7em;
+}
+
+#j5 {
+    width: 1.3rem;
+    position: absolute;
+    top: 4.4rem;
+    left: 2.1rem;
+}
+#j05 {
+    width: 1.4rem;
+    position: absolute;
+    top: 5.85rem;
+    left: 2.1rem;
+}
+
+#j6 {
+    width: 1.3rem;
+    position: absolute;
+    top: 3.7rem;
+    left: 4.4rem;
+}
+#j06 {
+    width: 1.3rem;
+    position: absolute;
+    top: 5.1rem;
+    left: 4.4rem;
+}
+
+#j7 {
+    width: 1.3rem;
+    position: absolute;
+    left: 6.5rem;
+    top: 4.4rem;
+}
+#j07 {
+    width: 1.7rem;
+    position: absolute;
+    left: 6.3rem;
+    top: 5.8rem;
+}
+
+#j8 {
+    width: 1.3rem;
+    position: absolute;
+    left: 8rem;
+    top: 6.7rem;
+}
+#j08 {
+    width: 1.3rem;
+    position: absolute;
+    left: 8rem;
+    top: 8.1rem;
+}
+
+#j9 {
+    width: 4rem;
+    position: absolute;
+    top: 6.9rem;
+    left: 3rem;
+}
+
+#j10 {
+    width: 4.5rem;
+    position: absolute;
+    top: 14rem;
+    left: 2.6rem;
+}
+
+.dade_in {
+    display: none;
+}

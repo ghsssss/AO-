@@ -1,0 +1,17 @@
+#h {
+    background: url("../img/h1.jpg") no-repeat center top;
+    background-size: 10rem auto;
+
+}
+
+#h1 {
+    position: absolute;
+    left: 2rem;
+    bottom: 13rem
+}
+
+#h2 {
+    position: absolute;
+    left: 2rem;
+    bottom: 12.2rem;
+}
